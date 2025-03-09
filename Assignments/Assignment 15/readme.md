@@ -51,16 +51,3 @@ To pass a payload in actions:
 3. **Logout Functionality**:
    - Clicking logout sets `isAuthenticated = false` and changes the UI accordingly.
      - [Logged Out Screen](https://drive.google.com/file/d/1obJXoA9eHXDfAMUA6OKSoxf3HFtRjgYi/view?usp=sharing)
-
-## Getting Started
-1. Clone the repository.
-2. Install dependencies: `npm install`
-3. Start the app: `npm start`
-
-## Technologies Used
-- React
-- Redux Toolkit
-- React-Redux
-
-## Conclusion
-This project demonstrates how Redux Toolkit simplifies authentication state management by reducing boilerplate and providing a structured approach to managing authentication logic.
